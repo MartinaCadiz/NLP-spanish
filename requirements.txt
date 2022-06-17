@@ -1,0 +1,20 @@
+###### Requirements without Version Specifiers ######
+stanza
+spacy
+es-core-news-sm
+nltk
+wikipedia
+transformers
+sentencepiece
+autocorrect
+pysentimiento
+seaborn
+matplotlib
+lda
+keybert
+bokeh
+tqdm
+scikit-multilearn
+###### Requirements with Version Specifiers ######
+spacy > 3.0.0
+pyLDAvis==2.1.2      
